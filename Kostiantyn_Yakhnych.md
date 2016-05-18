@@ -24,14 +24,14 @@ Skills
 - bug severity and priority;
 - write simple soft on Python language;
 - software development process and principles;
-- software development methodologies (Waterfall, Agile: Scrum);
-- strong user of UNIX environment;
-- git VCS.
+- software development methodologies (Waterfall, Kanban, Agile: Scrum);
+- strong user of UNIX environment.
 
 Practice with the following tools:
-- Mantis, Jira (strong user);
+- Mantis, Jira (used for a long time with Scrum process flow);
 - IDEs;
 - Command line;
+- Selenium;
 - git.
 
 
