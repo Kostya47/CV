@@ -49,6 +49,7 @@ Personality
 - general approach - end to end problem solution starting from analyzing requirements, creating a plan, finding pitfalls on early stage and ending with publishing a bug, supporting request till complete resolvement;
 - I'm highly organized, have a time-management skills and use all of this in practice on a regular basis;
 - ability to ask right questions and do not interrupt concerned with empty requests;
+- capable to work in a team;
 - I understand balance between automation and manual testing;
 - active participant of seminars and conferences;
 - diligent and result oriented;
@@ -64,7 +65,7 @@ Additional
 - aware of current QA situation in real world;
 - willing to work in automation direction;
 - Django Framework learning in progress;
-- I love automobiles and environment around of it
+- I love automobiles and environment around of it.
 
 Languages
 ---------
