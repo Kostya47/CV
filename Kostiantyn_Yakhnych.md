@@ -49,6 +49,7 @@ Personality
 - general approach - end to end problem solution starting from analyzing requirements, creating a plan, finding pitfalls on early stage and ending with publishing a bug, supporting request till complete resolvement;
 - I'm highly organized, have a time-management skills and use all of this in practice on a regular basis;
 - ability to ask right questions and do not interrupt concerned with empty requests;
+- I've a good theoretical knowledge base about quality in software;
 - capable to work in a team;
 - I understand balance between automation and manual testing;
 - active participant of seminars and conferences;
@@ -57,7 +58,8 @@ Personality
 - having analytical mind;
 - passionate about new technologies;
 - willing to improve and develop;
-- highly-motivated.
+- highly-motivated;
+- ready to work overtime.
 
 Additional
 ----------
