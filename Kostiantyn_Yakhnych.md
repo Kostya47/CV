@@ -29,7 +29,7 @@ Skills
 - git VCS.
 
 Practice with the following tools:
-- Jira (strong user);
+- Mantis, Jira (strong user);
 - IDEs;
 - Command line;
 - git.
