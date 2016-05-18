@@ -80,7 +80,7 @@ That's what helped me:
 - books (C.Caner, R.Culbertson, L.Copeland, R.Savin);
 - some online courses (Codecademy, QATestLab, Universarium, Stepic, SoloLearn, etc.);
 - countless of useful articles, videos and other materials that cover a whole world of information technologies;
-- ongoing support of peole who are experienced in the processes accociated with software development;
+- ongoing support of people who are experienced in the processes accociated with software development;
 - and of course a lot of perseverance.
 
 **Dates:** from Sep, 2008 – till June 2011
