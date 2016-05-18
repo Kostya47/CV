@@ -73,10 +73,14 @@ Languages
 - English - intermediate
 - Ukrainian, Russian - native
 
-Education & courses
+Education
 ---------
-**Dates:** ...
-**Course name:** Super course
+I've 6+ months of intensive self-education in software testing and development.
+That's what helped me:
+- books (C.Caner, R.Culbertson, L.Copeland, R.Savin);
+- some online courses (Codecademy, QATestLab, Universarium, Stepic, SoloLearn, etc.);
+- a lot of useful articles and materials that cover a whole world of software development;
+- 
 
 **Dates:** from Sep, 2008 – till June 2011
 **Institution:** Higher professional college No 7 (Kremenchuk)
