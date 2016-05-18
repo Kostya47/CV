@@ -49,7 +49,7 @@ Personality
 - general approach - end to end problem solution starting from analyzing requirements, creating a plan, finding pitfalls on early stage and ending with publishing a bug, supporting request till complete resolvement;
 - I'm highly organized, have a time-management skills and use all of this in practice on a regular basis;
 - ability to ask right questions and do not interrupt concerned with empty requests;
-- I've a good theoretical knowledge base about quality in software;
+- I have a good theoretical knowledge base about quality in software;
 - capable to work in a team;
 - I understand balance between automation and manual testing;
 - active participant of seminars and conferences;
@@ -77,7 +77,7 @@ Languages
 
 Education
 ---------
-I've 6+ months of intensive self-education in software testing and development.
+I have 6+ months of intensive self-education in software testing and development.
 That's what helped me:
 - books (C.Caner, R.Culbertson, L.Copeland, R.Savin);
 - some online courses (Codecademy, QATestLab, Universarium, Stepic, SoloLearn, etc.);
