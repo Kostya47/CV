@@ -4,9 +4,9 @@ KOSTIANTYN YAKHNYCH
 Contacts
 --------
 
-E-mail: kostiantyn.yakhnych@gmail.com
-Phone: +38 (093) 133-12-66
-Skype: kostiantyn.yakhnych
+E-mail: kostiantyn.yakhnych@gmail.com  
+Phone: +38 (093) 133-12-66  
+Skype: kostiantyn.yakhnych  
 
 Objective
 ---------
@@ -85,15 +85,15 @@ That's what helped me:
 - ongoing support of people who are experienced in the processes accociated with software development;
 - and of course a lot of perseverance.
 
-**Dates:** from Sep, 2008 – till June 2011
-**Institution:** Higher professional college No 7 (Kremenchuk)
-**Qualification:** Electrician on repair and service of electrical equipment (the 4th category)
+**Dates:** from Sep, 2008 – till June 2011  
+**Institution:** Higher professional college No 7 (Kremenchuk)  
+**Qualification:** Electrician on repair and service of electrical equipment (the 4th category)  
 
-**Dates:** from Sep, 2011 – till present
-**Institution:** Kremenchuk Mykhailo Ostrohradskyi National University
-**Faculty:** Institute of Electromechanics, energy saving, and automatic control systems
-**Department:** Electric Machines and Devices department
-**Qualification:** Electromechanics
+**Dates:** from Sep, 2011 – till present  
+**Institution:** Kremenchuk Mykhailo Ostrohradskyi National University  
+**Faculty:** Institute of Electromechanics, energy saving, and automatic control systems  
+**Department:** Electric Machines and Devices department  
+**Qualification:** Electromechanics  
 
 
 
