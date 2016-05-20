@@ -34,7 +34,6 @@ Practice with the following tools:
 - Selenium;
 - git.
 
-
 Theoretical knowledge of the following issues:
 - computer networks;
 - HTML/CSS;
