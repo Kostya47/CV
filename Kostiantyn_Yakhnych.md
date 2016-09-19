@@ -4,9 +4,10 @@ KOSTIANTYN YAKHNYCH
 Contacts
 --------
 
-E-mail: kostiantyn.yakhnych@gmail.com  
-Phone: +38 (093) 133-12-66  
+E-mail: kostiantyn.yakhnych@gmail.com   
+Phone: +38 (093) 133-12-66    
 Skype: kostiantyn.yakhnych  
+Website: github.com/Kostya47  
 
 Objective
 ---------
@@ -19,7 +20,7 @@ Skills
 - bug life cycle;
 - software testing and developing test documentation (test cases, test suites, test plans, bug reports);
 - testing levels (unit, system, integration, acceptance);
-- testing types (functional, regression, usability, performance, security testing);
+- testing types (functional, regression, usability, performance, smoke testing);
 - testing methods (black box, white box, grey box, ad hoc testing);
 - bug severity and priority;
 - write simple soft on Python language;
@@ -64,6 +65,12 @@ Personality
 
 Experience
 ----------
+
+- involved in real project as a single software tester;
+- creating test cases and writing bug reports;
+- requirements analysis and participation in team meetings;
+- working with API tools and testing in different platforms;
+- maintenance and editing database.
 
 Additional
 ----------
