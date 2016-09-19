@@ -29,12 +29,12 @@ Skills
 - strong user of UNIX environment.
 
 Practice with the following tools:
-- TestRail, Jira, Mantis;
+- TestRail, Jira, Mantis; 
 - IDEs;
-- Command line;
-- REST API;
-- Selenium;
-- git.
+- Command line; 
+- REST API; 
+- Selenium; 
+- git.  
 
 Theoretical knowledge of the following issues:
 - computer networks;
