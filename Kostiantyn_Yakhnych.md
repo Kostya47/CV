@@ -18,7 +18,7 @@ Skills
 ------
 
 - bug life cycle;
-- software testing and developing test documentation (test cases, test suites, test plans, bug reports);
+- software testing and developing test documentation (test cases, test plans, bug reports);
 - testing levels (unit, system, integration, acceptance);
 - testing types (functional, regression, usability, performance, smoke testing);
 - testing methods (black box, white box, grey box, ad hoc testing);
