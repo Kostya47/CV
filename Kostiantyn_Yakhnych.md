@@ -11,7 +11,7 @@ Skype: kostiantyn.yakhnych
 Objective
 ---------
 
-Obtain a position of Junior QA Engineer
+Obtain a position of QA Intern
 
 Skills
 ------
@@ -28,9 +28,10 @@ Skills
 - strong user of UNIX environment.
 
 Practice with the following tools:
-- Mantis, Jira (used for a long time with Scrum process flow);
+- TestRail, Jira, Mantis;
 - IDEs;
 - Command line;
+- REST API;
 - Selenium;
 - git.
 
@@ -38,6 +39,7 @@ Theoretical knowledge of the following issues:
 - computer networks;
 - HTML/CSS;
 - OOP principles;
+- JSON data structure;
 - relational databases (SQL).
 
 Personality
@@ -60,12 +62,15 @@ Personality
 - highly-motivated;
 - ready to work overtime.
 
+Experience
+----------
+
 Additional
 ----------
 
 - aware of current QA situation in real world;
 - willing to work in automation direction;
-- Django Framework learning in progress;
+- testing frameworks learning in progress;
 - I love automobiles and environment around of it.
 
 Languages
@@ -79,10 +84,10 @@ Education
 I have 6+ months of intensive self-education in software testing and development.
 That's what helped me:
 - books (C.Caner, R.Culbertson, L.Copeland, R.Savin);
-- some online courses (Codecademy, QATestLab, Universarium, Stepic, SoloLearn, etc.);
+- some online courses (Codecademy, QATestLab, Universarium, Prometheus, SoloLearn, etc.);
 - countless of useful articles, videos and other materials that cover a whole world of information technologies;
 - ongoing support of people who are experienced in the processes accociated with software development;
-- and of course a lot of perseverance.
+- attending seminars and conferences about QA.
 
 **Dates:** from Sep, 2008 – till June 2011  
 **Institution:** Higher professional college No 7 (Kremenchuk)  
@@ -93,8 +98,6 @@ That's what helped me:
 **Faculty:** Institute of Electromechanics, energy saving, and automatic control systems  
 **Department:** Electric Machines and Devices department  
 **Qualification:** Electromechanics  
-
-
 
 
 
